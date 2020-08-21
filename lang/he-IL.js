@@ -59,14 +59,14 @@ export default {
             UNEMPLOYED_BENEFIT: 'אתה מתחיל עם הבגדים שעל הגב שלך ונשק תגרה.',
 
             CONSTRUCTION_WORKER_TITLE: 'עובד בניין',
-            CONSTRUCTION_WORKER_DESCRIPTION: 'You used to work on new housing projects all the time. This is the ideal choice if you like to build structures.',
-            CONSTRUCTION_WORKER_BENEFIT: 'Spawn with your work outfit and a melee weapon.',
+            CONSTRUCTION_WORKER_DESCRIPTION: 'פעם עבדת על פרויקטים של חדושים של לדיור. זו הבחירה האידיאלית אם תרצו לבנות מבנים.',
+            CONSTRUCTION_WORKER_BENEFIT: 'אתה מתחיל עם בגדי עבודה ונשק תגרה.',
 
-            REPAIR_MAN_TITLE: 'Repairman',
-            REPAIR_MAN_DESCRIPTION: 'You were once a repair man with a broad variety of skills.',
-            REPAIR_MAN_BENEFIT: 'Spawn with casual attire and a random melee weapon',
+            REPAIR_MAN_TITLE: 'מתקן',
+            REPAIR_MAN_DESCRIPTION: 'היית פעם איש תיקונים עם מגוון רחב של כישורים.',
+            REPAIR_MAN_BENEFIT: 'אתה מתחיל עם לבוש סתמי וכלי נשק תגרה אקראי',
 
-            FARMER_TITLE: 'Farmer',
+            FARMER_TITLE: 'חקלאי',
             FARMER_DESCRIPTION: 'Making an honest living is never something to be ashamed of. Everybody still needs to eat.',
             FARMER_BENEFIT: 'Spawn with some basic clothes and a small backpack with survival gear.',
 
