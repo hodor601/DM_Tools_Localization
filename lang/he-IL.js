@@ -67,7 +67,7 @@ export default {
             REPAIR_MAN_BENEFIT: 'אתה מתחיל עם לבוש סתמי וכלי נשק תגרה אקראי',
 
             FARMER_TITLE: 'חקלאי',
-            FARMER_DESCRIPTION: 'Making an honest living is never something to be ashamed of. Everybody still needs to eat.',
+            FARMER_DESCRIPTION: 'התפרנסות כנה זה אף פעם לא משהו להתבייש בו. כולם עדיין צריכים לאכול.',
             FARMER_BENEFIT: 'Spawn with some basic clothes and a small backpack with survival gear.',
 
             CHEF_TITLE: 'Chef',
