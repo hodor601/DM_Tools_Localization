@@ -68,16 +68,15 @@ export default {
 
             FARMER_TITLE: 'חקלאי',
             FARMER_DESCRIPTION: 'התפרנסות כנה זה אף פעם לא משהו להתבייש בו. כולם עדיין צריכים לאכול.',
-            FARMER_BENEFIT: 'Spawn with some basic clothes and a small backpack with survival gear.',
+            FARMER_BENEFIT: 'אתה מתחיל עם כמה בגדים בסיסיים ותרמיל קטן עם ציוד הישרדות.',
 
-            CHEF_TITLE: 'Chef',
-            CHEF_DESCRIPTION: 'Your´ve always liked to spend time in the kitchen, ever since you were a child. Now you need to use your cooking skills to survive.',
-            CHEF_BENEFIT: 'Spawn with your work outfit and a kitchen knife.',
+            CHEF_TITLE: 'שֶׁף',
+            CHEF_DESCRIPTION: 'תמיד אהבת להעביר זמן במטבח, מאז שהיית ילדה. עכשיו אתה צריך להשתמש בכישורי הבישול שלך כדי לשרוד.',
+            CHEF_BENEFIT: 'האתה מתחיל עם בגדי העבודה שלך וסכין מטבח.',
 
-            DOCTOR_TITLE: 'Doctor',
-            DOCTOR_DESCRIPTION: 'In theory the hippocratic oath still applies even after society has fallen apart. You once swore a duty to help those that are in need.',
-            DOCTOR_BENEFIT: 'Spawn with your work clothes, some medical supplies and a melee weapon.',
-
+            DOCTOR_TITLE: 'דוקטור',
+            DOCTOR_DESCRIPTION: 'בתיאוריה השבועה ההיפוקרטית עדיין חלה גם לאחר שהחברה התפרקה. פעם נשבעת חובה לעזור לאלה אשר צריכים עזרה.',
+            DOCTOR_BENEFIT: '',
             FIRE_FIGHTER_TITLE: 'Firefighter',
             FIRE_FIGHTER_DESCRIPTION: 'You were once a firefighter, bravely battling many of the fires that sprung up during the outbreak. You´re one of the few remaining survivors from the city.',
             FIRE_FIGHTER_BENEFIT: 'Spawn with your work outfit and a fireaxe',
