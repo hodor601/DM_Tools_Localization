@@ -46,19 +46,19 @@ export default {
             PERK_POINTS_DESCRIPTION: 'צריך שיהיה לך סכום של 0 נקודות בשביל לסיים את השחקן.',
             PERK_POINTS_RESET_BUTTON: 'איפוס',
             PERK_POINTS_SAVE_BUTTON: 'שמירת שחקן',
-            PERK_POINTS_SAVE_TEXT: '.',
-            PERK_POINTS_COPY_CLIPBOARD: 'Copy to Clipboard',
+            PERK_POINTS_SAVE_TEXT: 'של השחקן שלך מוכן URL.',
+            PERK_POINTS_COPY_CLIPBOARD: 'העתק',
 
-            EXTENDED_STATS_BUTTON_OPEN: 'Open Extended Statistics',
-            EXTENDED_STATS_BUTTON_CLOSE: 'Close Extended Statistics',
-            EXTENDED_STATS_BUTTON_WIP: '(Work in Progress)'
+            EXTENDED_STATS_BUTTON_OPEN: 'פתח נתוני סטטוס מורחבים',
+            EXTENDED_STATS_BUTTON_CLOSE: 'סגור נתוני סטטוס מורחבים',
+            EXTENDED_STATS_BUTTON_WIP: '(עבודה בתהליך)'
         },
         OCCUPATION: {
-            UNEMPLOYED_TITLE: 'Unemployed',
-            UNEMPLOYED_DESCRIPTION: 'You were a talented but quick learner that decided against pursuing employment.',
-            UNEMPLOYED_BENEFIT: 'Spawn with the clothes on your back and a melee weapon.',
+            UNEMPLOYED_TITLE: 'מובטל',
+            UNEMPLOYED_DESCRIPTION: 'היית לומד מוכשר אך מהיר למידה שהחליט לא להמשיך לעבוד.',
+            UNEMPLOYED_BENEFIT: 'אתה מתחיל עם הבגדים שעל הגב שלך ונשק תגרה.',
 
-            CONSTRUCTION_WORKER_TITLE: 'Construction Worker',
+            CONSTRUCTION_WORKER_TITLE: 'עובד בניין',
             CONSTRUCTION_WORKER_DESCRIPTION: 'You used to work on new housing projects all the time. This is the ideal choice if you like to build structures.',
             CONSTRUCTION_WORKER_BENEFIT: 'Spawn with your work outfit and a melee weapon.',
 
